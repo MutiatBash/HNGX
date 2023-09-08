@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 .img {
   width: 20%;
@@ -21,4 +21,9 @@
 .username {
   font-weight: bold;
   font-size: 1.5rem;
+}
+a {
+  text-decoration: none;
+  color: #411465;
+  font-weight: bold;
 }
